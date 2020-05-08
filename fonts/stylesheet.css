@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Baloo Thambi 2';
+    src: url('BalooThambi2-Medium.eot');
+    src: url('BalooThambi2-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BalooThambi2-Medium.woff2') format('woff2'),
+        url('BalooThambi2-Medium.woff') format('woff'),
+        url('BalooThambi2-Medium.svg#BalooThambi2-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
